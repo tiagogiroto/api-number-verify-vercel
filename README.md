@@ -1,1 +1,3 @@
-# api-number-verify-vercel
+# api-verify-number
+
+nodemon index.js
